@@ -1,0 +1,6 @@
+{
+  "name": "ArcticFox Community",
+  "description": "Premium landing page for ArcticFox - Elite Gold (XAUUSD) Signals & EA Trading Community Telegram channel, built to look exactly like high-converting Telegram preview screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
